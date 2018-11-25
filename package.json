@@ -9,9 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
     "express": "^4.16.4",
+    "http-status-code": "^2.1.0",
+    "http-status-codes": "^1.3.0",
+    "https": "^1.0.0",
     "joi": "^14.0.6",
+    "jsonwebtoken": "^8.4.0",
     "mongoose": "^5.3.12",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.6"
